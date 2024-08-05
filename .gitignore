@@ -15,6 +15,7 @@
 
 # production
 /build
+/onserver
 
 # misc
 .DS_Store
@@ -34,3 +35,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# file code export
+file.py
+output.txt
